@@ -1,9 +1,9 @@
 {
-    "name": "jxlwqq/json-editor",
+    "name": "snowsoft/json-editor",
     "description": "JSON Editor for Laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/jxlwqq/json-editor",
+    "homepage": "https://github.com/snowsoft/json-editor",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "~1.6"
+        "snowsoft/laravel-admin": "~1.6"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
