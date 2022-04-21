@@ -11,13 +11,13 @@ This is a `laravel-admin` extension that integrates [JSON Editor](https://github
 ## Installation
 
 ```bash
-composer require jxlwqq/json-editor
+composer require snowsoft/json-editor
 php artisan vendor:publish --tag=laravel-admin-json-editor
 ```
 
 ## Update
 ```bash
-composer require jxlwqq/json-editor
+composer require snowsoft/json-editor
 php artisan vendor:publish --tag=laravel-admin-json-editor --force
 ```
 
